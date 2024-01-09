@@ -6,6 +6,9 @@ This allows attackers to fully take over the victims account.
 1. In case of a new Security Key the victims password will be unchanged. Allowing for backdooring the account in a stealthy way.
 2. In case of additional registered Sign-In methods like Email, Phone etc. those could be abused during Self-Service Password Reset. The victims password will be changed. 
 
+# PoC Video
+https://github.com/CompassSecurity/deviceCode2SecurityKey/assets/44463990/87deb4e5-9757-485c-8bb9-f4767714aa7b
+
 # Prerequisites
 
 ## Prerequisites for PoC Code
