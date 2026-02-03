@@ -1,3 +1,6 @@
+> [!WARNING]
+> This repository is no longer actively maintained and has been archived for reference purposes only.
+
 # Summary
 
 An attacker is able to register new Security Keys (FIDO) or other Sign-In methods (Authenticator, Email, Phone etc.) after a successful device code phishing attack.
